@@ -1,2 +1,4 @@
 # Malicious-URL-Detection-Using-Machine-Learning
 Detecting Malicious URLs Using Machine Learning Algorithms(K-Nearest-Neighbors)
+
+This is a machine learning project that uses various techniques such as pre-processing, one hot encoding, and feature scaling to classify URLs as either malicious or benign. The goal of this project is to help identify potentially harmful URLs and prevent users from accessing them.The project uses a dataset of URLs and their associated labels (malicious or benign) to train several machine learning algorithms. After preprocessing the data and performing one hot encoding, the features are scaled using the Scikit-learn library. The algorithm used in this project is K-Neareast-Neighbours(KNN).This project is designed to be scalable and adaptable to different types of URLs, making it a useful tool for a wide range of applications. The code is open source and available on GitHub, and we welcome contributions and feedback from the community.
